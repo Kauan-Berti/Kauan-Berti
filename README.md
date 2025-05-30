@@ -18,7 +18,7 @@
     </p>
     <p>
         Atualmente, tenho interesse em participar de projetos onde possa colocar em prática meu conhecimento técnico,
-        aprender com profissionais experientes e enfrentar desafios reais que fortaleçam minha base, <br>ajudando em
+        aprender com profissionais experientes e enfrentar desafios reais que fortaleçam minha base, ajudando em
         minha jornada como profissional back-end.
     </p>
 </div><br>
