@@ -4,7 +4,7 @@
     <h2>👋 Olá, eu sou o Kauan Berti ✌</h2>
     <img align="right"
         src="https://github.com/Kauan-Berti/Kauan-Berti/blob/main/Assets/imagem/FotoReadme(KauanBerti).png"
-        alt="Foto de Apresentação" height="250em" style="margin-left: 15px">
+        alt="Foto de Apresentação" width="250px" height="250px" style="margin-left: 15px">
     <p>
         Sou estudante de Análise e Desenvolvimento de Software pela <a
             href="https://www.fatecsorocaba.edu.br/">FATEC-SOROCABA</a>, atualmente com foco em me tornar um
